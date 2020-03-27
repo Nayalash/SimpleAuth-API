@@ -22,20 +22,26 @@ npm start
 ### Register
 ```
 POST: http://localhost:8000/api/user/register
-Body: 
 
-email =>
-password =>
+Body (as JSON): 
+
+{
+email: <YOUREMAIL>
+password <YOURPASSWORD>
+}
 
 ```
 
 ### Login
 ```
 POST: http://localhost:8000/api/user/register
-Body: 
 
-email =>
-password =>
+Body (as JSON): 
+
+{
+email: <YOUREMAIL>
+password <YOURPASSWORD>
+}
 
 ```
 
