@@ -3,7 +3,7 @@ Auth API for Logging in and Registering New Users.
 
 ## Run The App
 
-1. Download Node.js
+1. Download Node.js and Configure a MongoDB database
 
 2. Run Command Below in Root of the Project
 
